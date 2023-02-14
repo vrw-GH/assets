@@ -1,4 +1,3 @@
 # COMMON ASSETS
 
-Common asset library for
-public/private repos.
+Common asset library for my public/private repos.
