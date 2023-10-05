@@ -1,4 +1,10 @@
 # COMMON ASSETS
 
-Common asset library for my public/private repos.
+Common asset library for my Repos.
+
+* Screenshots
+* images
+* svg
+* fonts
+* mmedia
 
