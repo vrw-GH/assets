@@ -2,9 +2,11 @@
 
 Common asset library for my Repos.
 
-* Screenshots
-* images
-* svg
-* fonts
-* mmedia
+* Images - common images 
+* Icons - common icons
+* Fonts - font used for apps
+* Mmedia - video/audio
+* Repo-media - for documentation
+* Svgs - SVG files 
+* JSON - JSON data files
 
